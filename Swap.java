@@ -1,5 +1,3 @@
-
-
 public class Swap {
     public static int[] swap(int a, int b) {
         int temp = a;
